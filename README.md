@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://source.unsplash.com/1600x500/?technology,coding](https://i.ibb.co.com/0jgP30FC/Untitled-design.png" alt="GitHub Banner">
+  <img src="https://i.ibb.co.com/0jgP30FC/Untitled-design.png" alt="GitHub Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Amir Hamza Ismail</h1>
