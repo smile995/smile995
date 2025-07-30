@@ -56,7 +56,7 @@
 <a href="https://fb.com/badsha.vai.96343">
   <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:amirhamzaismail275@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
