@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://i.ibb.co.com/0jgP30FC/Untitled-design.png" alt="GitHub Banner">
+  <img src="[https://i.ibb.co.com/0jgP30FC/Untitled-design.png](https://drive.google.com/file/d/1lCWmfI2U3EpzF8hH-tjeN1W5Q9c-oxuR/view?usp=sharing)" alt="GitHub Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Amir Hamza Ismail</h1>
