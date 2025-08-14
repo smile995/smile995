@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://drive.google.com/file/d/1lCWmfI2U3EpzF8hH-tjeN1W5Q9c-oxuR/view?usp=sharing" alt="GitHub Banner">
+  <img src="https://i.ibb.co.com/qYMxM9CL/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner-1.png" alt="GitHub Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Amir Hamza Ismail</h1>
